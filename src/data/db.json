@@ -1,0 +1,24 @@
+{
+  "categories": [
+    {
+      "name": "bread"
+    },
+    {
+      "name": "dairy"
+    },
+    {
+      "name": "fruits"
+    },
+    {
+      "name": "seasonings and spices"
+    },
+    {
+      "name": "vegetables"
+    }
+  ],
+  "products": [
+    {
+      "name": "bread"
+    }
+  ]
+}
